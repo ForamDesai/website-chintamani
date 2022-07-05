@@ -5,12 +5,6 @@
             <ul class="metismenu list-unstyled" id="side-menu">
                 <li class="menu-title" data-key="t-menu">Menu</li>
 
-                <!-- <li>
-                    <a href="home.php">
-                        <i data-feather="home"></i>
-                        <span data-key="t-dashboard">Dashboard</span>
-                    </a>
-                </li> -->
                 <li>
                     <a href="projects.php">
                         <i data-feather="grid"></i>
@@ -32,7 +26,7 @@
                 <li>
                     <a href="Projects.php">
                         <i data-feather="grid"></i>
-                        <span data-key="t-apps">Inquirey</span>
+                        <span data-key="t-apps">inquiry</span>
                     </a>
                 </li>
                 <li>
@@ -42,14 +36,11 @@
                     </a>
                 </li>
                 <li>
-                    <a href="Projects.php">
+                    <a href="aminities.php">
                         <i data-feather="grid"></i>
                         <span data-key="t-apps">Aminities</span>
                     </a>
                 </li>
-
-
-              
 
             </ul>
 

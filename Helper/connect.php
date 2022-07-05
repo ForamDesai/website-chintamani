@@ -1,7 +1,5 @@
 <?php
 	include 'MysqliDb.php';
-//	$link=new MysqliDb("localhost","root","","chariot");
-// 	$con = mysqli_connect('localhost','root','','chariot');
 	
     $link=new MysqliDb("localhost","root","","chintamani_db");
 	$con = mysqli_connect('localhost','root','','chintamani_db');
